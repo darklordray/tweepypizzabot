@@ -1,4 +1,4 @@
-# Twitter Bot buit with Tweepy
+# Twitter Bot built with Tweepy
 
 **Libraries**
 The libraries that are used in this project are:
