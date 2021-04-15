@@ -6,7 +6,7 @@ The libraries that are used in this project are:
 * Tweepy
 * time
 
-##Description
+## Description
 
 This was a simple project that involved building a twitter bot that would retweet tweets that included a specific #tag.
 
